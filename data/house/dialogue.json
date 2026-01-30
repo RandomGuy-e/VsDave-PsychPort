@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo yo! Thanks for coming to my house!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We will now commence with a rap battle that will go down in history!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bo bop"
+		}
+	]
+}

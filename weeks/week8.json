@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"House",
+			"dave",
+			[
+				168,
+				202,
+				236
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "house",
+	"difficulties": "",
+	"weekCharacters": [
+		"dave",
+		"bf",
+		"gf"
+	],
+	"storyName": "Dave's Fun Rapping Battle!",
+	"weekName": "Week 7",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
