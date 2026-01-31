@@ -3,6 +3,11 @@
 		0,
 		0
 	],
+	"preload": {
+		"images/davehouseback": 3,
+		"images/davehouseceiling": 3,
+		"images/davehousefloor": 3
+	},
 	"_editorMeta": {
 		"boyfriend": "bf",
 		"dad": "dave",
